@@ -1,3 +1,4 @@
 #!/bin/sh -l
 
-sh -c "wget -v"
+sh -c "wget -V"
+wget -V
